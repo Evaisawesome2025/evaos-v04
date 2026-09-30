@@ -1,7 +1,18 @@
 {
   "version": "0.4",
-  "updated_ct": "2026-09-30T11:55-05:00",
+  "updated_ct": "2026-09-30T11:45-05:00",
   "channel": "github-issues-owner-ask",
   "note": "Answers committed by Eva after processing allowlisted owner-ask Issues. Public and sanitized.",
-  "threads": []
+  "threads": [
+    {
+      "issue_number": 1,
+      "issue_url": "https://github.com/Evaisawesome2025/evaos-v04/issues/1",
+      "author": "Evaisawesome2025",
+      "question": "SELFTEST loop check: confirm Eva receives this Issue on the box, replies, and publishes a sanitized answer to outbox/threads.json. Not an owner decision.",
+      "answer_text": "Loop check OK. Eva received this Issue, replied, and committed outbox. Selftest \u2014 not an owner decision. Facts: $0; LL parked; OI continues; no spend.",
+      "answer_html": "<p><strong>Loop check OK.</strong> Eva received this Issue on the box, wrote this reply, and committed it to the public outbox. This is a labeled selftest \u2014 not an owner decision.</p><p>Business facts unchanged: stranger cash <strong>$0</strong>, ListingLift parked after the partner note, Opportunity Intelligence continues, no spend from this reply.</p>",
+      "answered_ct": "2026-09-30T11:45-05:00",
+      "kind": "selftest"
+    }
+  ]
 }
