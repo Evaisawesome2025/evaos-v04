@@ -1,0 +1,4 @@
+# GitHub logins Eva will answer for owner-ask Issues (one per line).
+# Comments (#) and blank lines ignored.
+# Glen: add your GitHub username on its own line, then Eva will process your Asks.
+Evaisawesome2025

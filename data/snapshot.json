@@ -1,0 +1,75 @@
+{
+  "version": "0.4",
+  "built_ct": "2026-09-30T11:55-05:00",
+  "label": "static snapshot + real Ask loop via GitHub Issues; not live streaming chat",
+  "attention": "all_clear",
+  "needs_owner": false,
+  "money": {
+    "collected_revenue_usd": 0,
+    "goal_usd": 100,
+    "customers": 0,
+    "listinglift_price_usd": 39,
+    "paid_n": 0,
+    "ads_usd": 0,
+    "refunds_usd": 0
+  },
+  "listinglift": {
+    "state": "PARKED_AFTER_FINISH_ONE",
+    "price_usd": 39,
+    "paid_n": 0,
+    "partner_intro": "SENT_2026-09-30",
+    "cold": "PARKED",
+    "window_end_ct": "2026-10-13",
+    "public_page": "https://evaisawesome2025.github.io/listinglift/"
+  },
+  "doing": [
+    "Passive watch on ListingLift through about Oct 13 (partner reply if any, delivered emails, whether anyone pays $39).",
+    "Keeping the public page and checkout up.",
+    "Searching for the next honest business bet in the background (Opportunity Intelligence continues)."
+  ],
+  "not_doing": [
+    "No new cold email.",
+    "No second channel invented to rescue ListingLift.",
+    "No domain, mailbox, or ad purchases for this.",
+    "Not killing ListingLift yet \u2014 demand failure thresholds unmet."
+  ],
+  "next": "Passive watch to ~Oct 13. No new outreach. No spend. Next owner touch only if something needs a yes/no.",
+  "last_approval": {
+    "what": "One soft partner introduction for ListingLift",
+    "result": "Sent 2026-09-30",
+    "max_cost_usd": 0
+  },
+  "pending_approvals": [],
+  "lessons": [
+    "Mail that lands in spam is not a demand test.",
+    "A payment link that works can still be the wrong product \u2014 caught once; fixed the check.",
+    "A working demo is not a sale. Strangers paying is the evidence.",
+    "People paying for a category is not the same as people paying us."
+  ],
+  "killed": [
+    "Cold email for ListingLift \u2014 stopped (delivery), not a finished demand result.",
+    "Reddit post \u2014 removed by Reddit; not a clean public test.",
+    "Contractor quote-follow-up product \u2014 killed before outreach (weak beachhead).",
+    "Backer-update pack, escape-room weekday pack, bid-watch PDF \u2014 killed (category spend \u2260 our SKU).",
+    "Free Gmail as the way to reach strangers \u2014 killed as a channel capability."
+  ],
+  "on_shelf": "Help small food manufacturers assemble audit paperwork (records check, not food-safety advice). No contact. No spend. Waits until ListingLift\u2019s window is read honestly.",
+  "sources": [
+    "team/TEAM_MAP.md",
+    "team/ceo_approval_queue.md",
+    "experiment_log.csv",
+    "reports/economic_scoreboard.md",
+    "capability_test/revenue_experiment_1/STATUS.md",
+    "capability_test/revenue_experiment_1/DISPOSITION_2026-09-30.md",
+    "lessons_learned.md",
+    "opportunity_intelligence/PIPELINE.md"
+  ],
+  "simulated_blocks": [],
+  "loop": {
+    "id": "owner-ask-v04",
+    "channel": "github-issues",
+    "inbox_label": "owner-ask",
+    "outbox": "outbox/threads.json",
+    "honest_bridge": "Owner submits via GitHub (deep-linked from EvaOS). Eva processes on box with gh. Pages reads committed outbox."
+  }
+}
