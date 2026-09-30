@@ -146,10 +146,10 @@
 
   function showUnknown(raw) {
     var box = document.getElementById("answer");
-    document.getElementById("answer-q").textContent = raw ? 'About “‘ + raw.slice(0, 80) + '”' : "No match";
+    document.getElementById("answer-q").textContent = raw ? ("About: " + raw.slice(0, 80)) : "No match";
     document.getElementById("answer-a").innerHTML =
       "<p>I only answer from this snapshot’s facts. Try a chip above, or ask about: what Eva is doing, money, why park, approvals, risks, what’s next, kills, or whether you are needed.</p>" +
-      "<p>This is not live Eva. For a real decision or a new direction, talk to Eva the usual way.</p>";
+      "<p>This local box is not live Eva. For a real reply, use <strong>Ask Eva (real)</strong> above (GitHub Issue bridge).</p>";
     box.classList.add("show");
     document.querySelectorAll(".chip").forEach(function (c) {
       c.classList.remove("active");
